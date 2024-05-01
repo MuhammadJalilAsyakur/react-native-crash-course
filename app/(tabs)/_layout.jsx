@@ -36,7 +36,7 @@ const TabsLayout = () => {
                     }
                 }}>
                 <Tabs.Screen
-                    name='home'
+                    name='home'r
                     options={{
                         title: 'Home',
                         headerShown: false,
